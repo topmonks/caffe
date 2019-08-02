@@ -1,0 +1,13 @@
+{
+  "name": "image-optimization",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "local-web-server": "^3.0.7",
+    "prettier": "^1.18.2"
+  },
+  "scripts": {
+    "start": "yarn ws --http2 -d ."
+  }
+}
